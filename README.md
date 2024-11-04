@@ -9,4 +9,4 @@ In this challenge I used my knowledge of Python and unsupervised learning to pre
 - Resources (crypto_market_data.csv)
 
 # Documentation
-scikit-learn documentation (https://scikit-learn.org/0.21/documentation.html)
+Scikit-learn documentation (https://scikit-learn.org/0.21/documentation.html)
